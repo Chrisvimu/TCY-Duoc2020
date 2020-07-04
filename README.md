@@ -18,7 +18,7 @@ Les deseo mucha suerte y exito en esta hermosa asignatura!
       - *$ sudo apt-get upgrade*
       - *$ sudo apt-get update*
 
-  9. Ahora estas list@ para poder trabajar sobre el proyecto.
+  9. Ahora estas list@ para poder trabajar sobre el proyecto. (click derecho y selecciona configuracion de pantalla para ver la resolucion de esta)
    
       
 ## Requisitos de la maquina virtual.
