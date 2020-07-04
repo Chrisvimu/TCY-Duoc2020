@@ -34,6 +34,7 @@ Les deseo mucha suerte y exito en esta hermosa asignatura!
 
   - [JDK 8u111 con NetBeans 8.2](https://www.oracle.com/technetwork/es/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html)
   - [Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=DX_841432)
+  - [Xamp 7.3](https://www.apachefriends.org/download.html)
   - Proyecto Sistema Carrito de compras.
 
 ## Agradecimientos.
