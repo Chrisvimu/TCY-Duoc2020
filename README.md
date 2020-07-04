@@ -2,6 +2,8 @@
 
 Este repositorio fue creado para la asignatura de Tecnicas de Calidad de Software bajo la modalidad online (COVID-19, con el objetivo de facilitar el trabajo de todos y hacer mas expedito el proceso su aprendizaje.
 
+Link maquina virtual: https://drive.google.com/drive/folders/1sXzLH60eszdnGntVGdbTWcnkUlkVcw6T?usp=sharing
+
 Les deseo mucha suerte y exito en esta hermosa asignatura!
 
 ## Instrucciones para la instalacion.
