@@ -14,19 +14,20 @@ Les deseo mucha suerte y exito en esta hermosa asignatura!
   4. [Instalar Oracle Virtual Box](https://docs.oracle.com/cd/E19957-01/821-1692/6nmlk9kpt/index.html).
   5. Iniciar Oracle VM VirtualBox.
   6. Seleccionas Herramientas, añadir.
-    6.1 Seleccionar capteta.
-    6.2 Seleciconar abrir.
-  5. Agregar la imagen descargada.
-  6. Iniciar el entorno virtual.
-  7. Ingresar Contraseña: ***"calidad"***
-  8. Ingresar a terminal y ejecutar los siquientes comandos en orden para actualizar las dependencias del sistema a su version mas reciente, *$ indica el inicio del comando en la terminal*:
+    - Seleccionar capteta.
+    - Seleciconar abrir.
+    
+  7. Agregar la imagen descargada.
+  8. Iniciar el entorno virtual.
+  9. Ingresar Contraseña: ***"calidad"***
+  10. Ingresar a terminal y ejecutar los siquientes comandos en orden para actualizar las dependencias del sistema a su version mas reciente, *$ indica el inicio del comando en la terminal*:
       
       - *$ sudo apt-get upgrade*
       - *$ sudo apt-get update*
 
-  9. Ahora estas list@ para poder trabajar sobre el proyecto. (click derecho y selecciona configuracion de pantalla para ver la resolucion de esta)
-  10. Abir Netbeans.
-  11. Iniciar proyecto.
+  11. Ahora estas list@ para poder trabajar sobre el proyecto. (click derecho y selecciona configuracion de pantalla para ver la resolucion de esta)
+  12. Abir Netbeans.
+  13. Iniciar proyecto.
   
    
       
