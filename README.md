@@ -8,10 +8,14 @@ Les deseo mucha suerte y exito en esta hermosa asignatura!
 
 ## Instrucciones para la instalacion.
 
-  1. Clonar o descargar el repositorio en su maquina local.
-  2. [Descargar Oracle Virtual Box](https://www.virtualbox.org).
-  3. [Instalar Oracle Virtual Box](https://docs.oracle.com/cd/E19957-01/821-1692/6nmlk9kpt/index.html).
-  4. Iniciar Oracle VM VirtualBox.
+  1. Clonar o/y descargar el la maquina virtual en su maquina local desde google drive.
+  2. Descomprimes la imagen.
+  3. [Descargar Oracle Virtual Box](https://www.virtualbox.org).
+  4. [Instalar Oracle Virtual Box](https://docs.oracle.com/cd/E19957-01/821-1692/6nmlk9kpt/index.html).
+  5. Iniciar Oracle VM VirtualBox.
+  6. Seleccionas Herramientas, añadir.
+    6.1 Seleccionar capteta.
+    6.2 Seleciconar abrir.
   5. Agregar la imagen descargada.
   6. Iniciar el entorno virtual.
   7. Ingresar Contraseña: ***"calidad"***
@@ -21,6 +25,9 @@ Les deseo mucha suerte y exito en esta hermosa asignatura!
       - *$ sudo apt-get update*
 
   9. Ahora estas list@ para poder trabajar sobre el proyecto. (click derecho y selecciona configuracion de pantalla para ver la resolucion de esta)
+  10. Abir Netbeans.
+  11. Iniciar proyecto.
+  
    
       
 ## Requisitos de la maquina virtual.
