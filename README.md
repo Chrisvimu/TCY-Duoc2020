@@ -9,15 +9,15 @@ Les deseo mucha suerte y exito en esta hermosa asignatura!
 ## Instrucciones para la instalacion.
 
   1. Clonar o/y descargar el la maquina virtual en su maquina local desde google drive.
-  2. Descomprimes la imagen.
+  2. Descomprimir la imagen.
   3. [Descargar Oracle Virtual Box](https://www.virtualbox.org).
   4. [Instalar Oracle Virtual Box](https://docs.oracle.com/cd/E19957-01/821-1692/6nmlk9kpt/index.html).
   5. Iniciar Oracle VM VirtualBox.
   6. Seleccionas Herramientas, añadir.
-    - Seleccionar capteta.
-    - Seleciconar abrir.
     
-  7. Agregar la imagen descargada.
+    - Seleccionar carteta.
+    - Selecciconar abrir.
+    
   8. Iniciar el entorno virtual.
   9. Ingresar Contraseña: ***"calidad"***
   10. Ingresar a terminal y ejecutar los siquientes comandos en orden para actualizar las dependencias del sistema a su version mas reciente, *$ indica el inicio del comando en la terminal*:
