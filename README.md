@@ -22,12 +22,15 @@ Les deseo mucha suerte y exito en esta hermosa asignatura!
   9. Ingresar Contraseña: ***"calidad"***
   10. Ingresar a terminal y ejecutar los siquientes comandos en orden para actualizar las dependencias del sistema a su version mas reciente, *$ indica el inicio del comando en la terminal*:
       
-      - *$ sudo apt-get upgrade*
-      - *$ sudo apt-get update*
+      - *$ sudo apt-get upgrade*  [tecla enter]
+      - *$ sudo apt-get update*  [tecla enter]
+      - *$ cd Descargas/*  [tecla enter]
+      - *$ sudo ./ + [tecla tab]* [tecla enter]
 
-  11. Ahora estas list@ para poder trabajar sobre el proyecto. (click derecho y selecciona configuracion de pantalla para ver la resolucion de esta)
+  11. Configurar puerto para Xampp, por defecto utilizo 8181.
   12. Abir Netbeans.
   13. Iniciar proyecto.
+  14. Accercer via links de consola, o por marcadores a proyecto y base de datos.
   
    
       
